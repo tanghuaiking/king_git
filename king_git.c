@@ -18,5 +18,6 @@ int main(void)
 	//double b=1;
 	double b=c_norm(a[0],a[1],a[2]);
 	printf("%10.6f\n",b);
+	printf("haha,you are a SB")
 	return 0;
 }
